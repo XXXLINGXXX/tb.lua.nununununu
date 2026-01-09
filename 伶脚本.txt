@@ -63,7 +63,7 @@ local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/rel
 local Window = WindUI:CreateWindow({
     Title = "TB",
     Icon = "code",
-    Author = "by伶＆努力",
+    Author = "by韩少泽＆伶",
     Folder = "mtaskh",
     Size = UDim2.fromOffset(850, 950),
     Theme = "Light",
@@ -113,7 +113,7 @@ end, 990)
 WindUI:SetNotificationLower(true)
 
 Window:EditOpenButton({
-    Title = "打开TB脚本",
+    Title = "打开韩少泽脚本",
     Icon = "lucide:scroll-text",
     CornerRadius = UDim.new(0,16),
     StrokeThickness = 6,
